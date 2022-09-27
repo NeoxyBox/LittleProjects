@@ -1,2 +1,3 @@
-# LittleProjects
-My Little Projects
+# Little Projects
+
+My Little Projects!
